@@ -1,6 +1,7 @@
 body {
 	background: #75B2DD;
 	padding: 50px;
+	min-width: 550px;
 }
 
 #lions {
