@@ -1,7 +1,6 @@
 ;(function ($, window, undefined) {
 	$.getJSON('http://data.adicu.com/athletics?game_after=1970-01-01%2000%3A00%3A00&api_token=51314d99a237900002959a87&jsonp=?', function(data) {
 		$.each(data.data, function(i, e) {
-			console.log(data);
 			$('#game, h2')
 				.animate({'opacity': 0}, 500)
 				.queue(function(n) {
