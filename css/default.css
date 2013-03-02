@@ -24,7 +24,8 @@ h1 {
 
 h2 {
 	color: #fff;
-	font-family: Impact, sans-serif;
+	font-family: 'Impact', 'Futura-CondensedExtraBold', sans-serif;
+	font-weight: bold;
 	font-size: 20em;
 	line-height: 0.9;
 	margin: 0;
