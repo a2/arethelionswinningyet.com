@@ -1,0 +1,35 @@
+body {
+	background: #75B2DD;
+	padding: 50px;
+}
+
+#lions {
+	width: 100%;
+}
+
+#lions img {
+	display: block;
+	margin: 0 auto;
+}
+
+h1 {
+	color: #004b85;
+	font-family: Lobster, cursive;
+	font-style: italic;
+	font-weight: normal;
+	margin: 0 0 0.5em;
+	text-align: center;
+}
+
+h2 {
+	color: #fff;
+	font-family: Impact, sans-serif;
+	font-size: 20em;
+	line-height: 0.9;
+	margin: 0;
+	text-align: center;
+}
+
+#game {
+	text-align: center;
+}
